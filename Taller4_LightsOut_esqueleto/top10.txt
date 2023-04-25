@@ -1,0 +1,10 @@
+juan;24
+ACS;0
+ACS;0
+AAA;0
+AAA;0
+AAA;0
+AAA;0
+AAA;0
+AAA;0
+AAA;0
